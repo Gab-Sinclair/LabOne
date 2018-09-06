@@ -1,0 +1,25 @@
+{
+  "First_name":"Gabrielle",
+  "Last_name":"Sinclair",
+  "Display_Handle":"About_me"
+}
+
+{
+  "posts":
+  [
+    {
+      "name":"Gabby",
+      "Description":"twitter",
+    }
+    {
+     "name":"Gabrielle Sinclair",
+     "Description":"Facebook",
+    }
+    {
+    "name":"Gabby",
+    "Description":"Instagram"
+    }
+]
+{"age":21}
+{"active":"True"}
+}
