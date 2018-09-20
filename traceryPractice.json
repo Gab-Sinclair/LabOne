@@ -1,0 +1,65 @@
+{
+	"name": [
+		"Allison",
+		"Chelsea",
+		"Niko",
+		"Chris",
+		"Mike",
+		"Sally",
+		"Josh"
+	],
+	"occupation": [
+		"chef",
+		"accountant",
+		"teacher",
+		"photographer",
+		"lawyer",
+		"barber"
+	],
+	"origin": [
+		"#name#, a #occupation#, was #always# #expecting# #strange# rain in #month#. Find out why #abnormal# rain falls in only #certain# places. "
+	],
+	"always": [
+		"never",
+		"occasionally",
+		"sometimes",
+		"rarely",
+		"frequently"
+	],
+	"expecting": [
+		"anticipating",
+		"imagining",
+		"tracking",
+		"observing"
+	],
+	"strange": [
+		"money",
+		"spaghetti",
+		"knife",
+		"neon",
+		"book"
+	],
+	"month": [
+		"January",
+		"March",
+		"July",
+		"September",
+		"November"
+	],
+	"abnormal": [
+		"mystical",
+		"astonishing",
+		"inconceivable",
+		"bizarre",
+		"rare",
+		"incredible"
+	],
+	"certain": [
+		"dark",
+		"windy",
+		"noisy",
+		"colorful",
+		"crowded",
+		"unexpected"
+	]
+}
